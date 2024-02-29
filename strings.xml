@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="mountain">Дама с горностаем</string>
+    <string name="mountain_artist">Леонардо да Винчи</string>
+    <string name="mountain_year">1490</string>
+    <string name="reindeer">Крик</string>
+    <string name="reindeer_artist">Эдвард Мунк</string>
+    <string name="reindeer_year">1893</string>
+    <string name="waterfalls">Грачи прилетели</string>
+    <string name="waterfalls_artist">Алексей Саврасов</string>
+    <string name="waterfalls_year">1871</string>
+</resources>
